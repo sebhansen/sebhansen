@@ -25,6 +25,7 @@ My journey in programming began with a curiosity to understand how video games w
 ### Others
 - Git / GitHub
 - RESTful APIs
+- Azure
 
 ## 🔭 Projects & Contributions
 
@@ -32,9 +33,9 @@ My journey in programming began with a curiosity to understand how video games w
 - **FlavorMatch**: It's like Tinder, but for finding your next delicious dish. [Check it out!](https://github.com/sebhansen/FlavorMatch)
 
 ## 🌱 What I'm Learning
-- C#
 - C++
 - Cloud Computing 🔜
+- Docker
 
 ## 🎮 Gaming & Programming
 My passion for programming started from my love for video games. I enjoy exploring the mechanics of games and have even dabbled in game modding and development. This hobby has significantly influenced my problem-solving skills and creativity in software development.
