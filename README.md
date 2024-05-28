@@ -43,8 +43,8 @@ My passion for programming started from my love for video games. I enjoy explori
 - LinkedIn: [Sebastian Hansen](https://www.linkedin.com/in/sebastian-hansen-777905220/)
 - Email: [contact@sebh.dk](mailto:contact@sebh.dk)
 
-## 🚀 Let's Collaborate!
-I'm always open to collaborating on interesting projects and learning from fellow developers. Feel free to reach out if you have an exciting idea or just want to chat about technology and gaming!
+## 🚀 Looking for Opportunities!
+I am currently seeking job opportunities where I can contribute, learn, and grow. If you have an opening that matches my skills and experience, I'd love to connect and discuss how I can be a valuable addition to your team. 
 
 ---
 
