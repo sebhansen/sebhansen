@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Sebastian, a passionate software developer who recently completed my studies in January. I'm currently unemployed, so if you think I'd be a good fit in your team, feel free to reach on on my email!
+I'm Sebastian, a passionate software developer who recently completed my studies in January. I'm currently looking for job opportunities, so if you think I'd be a good fit in your team, feel free to reach on on my email!
 
 My journey in programming began with a curiosity to understand how video games work and if I could tweak them to my advantage. This curiosity has evolved into a deep passion for developing robust software solutions for pretty much anything.
 
