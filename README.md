@@ -34,6 +34,7 @@ My journey in programming began with a curiosity to understand how video games w
 
 ## 🌱 What I'm Learning
 - C++
+- .NET MAUI
 - Cloud Computing 🔜
 - Docker
 
