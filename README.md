@@ -24,7 +24,7 @@ My journey in programming began with a curiosity to understand how video games w
 
 ### Others
 - Git / GitHub
-- RESTful APIs
+- REST APIs
 - Azure
 
 ## 🔭 Projects & Contributions
