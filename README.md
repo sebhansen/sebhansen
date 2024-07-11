@@ -25,7 +25,7 @@ My journey in programming began with a curiosity to understand how video games w
 ### Others
 - Git / GitHub
 - REST APIs
-- Azure
+- Azure DevOps
 
 ## 🔭 Projects & Contributions
 
@@ -37,6 +37,7 @@ My journey in programming began with a curiosity to understand how video games w
 - .NET MAUI
 - Cloud Computing 🔜
 - Docker
+- Python
 
 ## 🎮 Gaming & Programming
 My passion for programming started from my love for video games. I enjoy exploring the mechanics of games and have even dabbled in game modding and development. This hobby has significantly influenced my problem-solving skills and creativity in software development.
