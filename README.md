@@ -33,9 +33,9 @@ My journey in programming began with a curiosity to understand how video games w
 - **FlavorMatch**: It's like Tinder, but for finding your next delicious dish. [Check it out!](https://github.com/sebhansen/FlavorMatch)
 
 ## 🌱 What I'm Learning
+- Dell Data Domain 🔥
 - C++
 - .NET MAUI
-- Cloud Computing 🔜
 - Docker
 - Python
 
