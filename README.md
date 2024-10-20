@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Sebastian, a passionate software developer, currently a Robotic Process Automation Developer [@Autorola Denmark]. Feel free to reach me on on my email for any inquiries!
+I'm Sebastian, a passionate software developer, currently a Robotic Process Automation Developer [@Autorola Denmark](). Feel free to reach me on on my email for any inquiries!
 
 My journey in programming began with a curiosity to understand how video games work and if I could tweak them to my advantage. This curiosity has evolved into a deep passion for developing robust software solutions for pretty much anything.
 
