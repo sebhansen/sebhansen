@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Sebastian, a passionate software developer who recently completed my studies in January. I'm currently looking for job opportunities, so if you think I'd be a good fit in your team, feel free to reach on on my email!
+I'm Sebastian, a passionate software developer, currently a Robotic Process Automation Developer [@Autorola Denmark]. Feel free to reach me on on my email for any inquiries!
 
 My journey in programming began with a curiosity to understand how video games work and if I could tweak them to my advantage. This curiosity has evolved into a deep passion for developing robust software solutions for pretty much anything.
 
@@ -33,7 +33,7 @@ My journey in programming began with a curiosity to understand how video games w
 - **FlavorMatch**: It's like Tinder, but for finding your next delicious dish. [Check it out!](https://github.com/sebhansen/FlavorMatch)
 
 ## 🌱 What I'm Learning
-- Dell Data Domain 🔥
+- Design Studio
 - C++
 - .NET MAUI
 - Docker
@@ -46,8 +46,8 @@ My passion for programming started from my love for video games. I enjoy explori
 - LinkedIn: [Sebastian Hansen](https://www.linkedin.com/in/sebastian-hansen-777905220/)
 - Email: [contact@sebh.dk](mailto:contact@sebh.dk)
 
-## 🚀 Looking for Opportunities!
-I am currently seeking job opportunities where I can contribute, learn, and grow. If you have an opening that matches my skills and experience, I'd love to connect and discuss how I can be a valuable addition to your team. 
+## 🚀 Looking to Grow!
+If you have an opening that matches my skills and experience, I'd love to connect and discuss how I can be a valuable addition to your team. 
 
 ---
 
