@@ -10,7 +10,6 @@ My journey in programming began with a curiosity to understand how video games w
 - **Microsoft Stack**
   - .NET / .NET Core
   - C#
-  - ASP.NET
 
 ### Full Stack Development
 - **Frontend**
@@ -27,7 +26,9 @@ My journey in programming began with a curiosity to understand how video games w
 - REST APIs
 - Azure DevOps
 - REXX
+- COBOL
 - z/OS
+- Java
 
 ## 🔭 Projects & Contributions
 
@@ -46,7 +47,7 @@ My passion for programming started from my love for video games. I enjoy explori
 
 ## 📫 How to Reach Me
 - LinkedIn: [Sebastian Hansen](https://www.linkedin.com/in/sebastian-hansen-777905220/)
-- Email: [contact@sebh.dk](mailto:contact@sebh.dk)
+- Email: [sebastian@sebh.dk](mailto:sebastian@sebh.dk)
 
 ## 🚀 Looking to Grow!
 If you have an opening that matches my skills and experience, I'd love to connect and discuss how I can be a valuable addition to your team. 
